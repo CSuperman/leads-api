@@ -1,7 +1,7 @@
 {
   "name": "people-api-project",
   "version": "beta 1.0.0",
-  "description": "",
+  "description": "favorite default for handling customer leads data",
   "main": "index.js",
   "scripts": {
     "devStart": "node server.js"
