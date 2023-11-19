@@ -1,3 +1,5 @@
+var get = document.getElementById('clicked-element-ID')
+
 get.addEventListener('click', function() {
     fetch('/')
     .then(response => response.json())
